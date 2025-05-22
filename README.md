@@ -138,6 +138,15 @@ Gudang G3:
 # Hentikan semua container
 docker-compose down
 ```
+## Dokumentasi Output
+**1. **producer_suhu.py**
+![WhatsApp Image 2025-05-22 at 13 34 13_e8c8666f](https://github.com/user-attachments/assets/986ca075-a096-46c9-ad55-bef1c2166e9a)
+
+**2. **producer_kelembaban.py**
+![WhatsApp Image 2025-05-22 at 13 33 33_b5ab0755](https://github.com/user-attachments/assets/11e79640-4aaa-421e-9603-d89f7409d445)
+
+**3. **pyspark_consumer.py**
+![WhatsApp Image 2025-05-22 at 13 32 37_789acf67](https://github.com/user-attachments/assets/a67f7b7f-44b1-4816-bb4e-12d5ac4218ed)
 
 ## 📝 Catatan
 
